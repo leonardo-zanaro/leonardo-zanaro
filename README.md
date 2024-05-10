@@ -38,10 +38,6 @@
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="border-radius: 10px; background-color: white; padding: 5px; box-shadow: inset 0px 0 10px 1px #7952b380;"/>
         </a>
-        <!-- Materialize CSS -->
-        <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" style="border-radius: 10px; background-color: white; padding: 5px; box-shadow: inset 0px 0 10px 1px #eb707780;"/>
-        </a>
     </div>
 </p>
 
